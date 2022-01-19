@@ -4,6 +4,6 @@
   background-color: #2f80ed;
   margin-top: 64px;
   position: absolute;
-  z-index: 1;
+  z-index: 0;
   right: 0;
 }
