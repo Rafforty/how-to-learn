@@ -1,5 +1,8 @@
 # Проектная работа №2.
 ## Яндекс.Практикум - курс - Веб-разработка
+<div align=center>
+<img src="https://github.com/Rafforty/how-to-learn/assets/96177295/a36c3941-9a5f-4256-a320-9b8bfbca176a" width=500px>
+</div>
 
 Верстка типового одностраничного сайта с применением выученных технологий:
 1. CSS Flexbox
